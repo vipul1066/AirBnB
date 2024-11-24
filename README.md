@@ -19,7 +19,7 @@
 1. BOOTSTRAP
 
 # Other
-  This project also have implemented with  MVC Freamwork / REST API'S
+  This project also have implemented with  MVC Freamwork / REST API'S.
 
   
 
